@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FirstFloor.Xcc/bin/Debug
+/FirstFloor.Xcc/obj/Debug
+/FirstFloor.Xcc.Test/bin/Debug
+/FirstFloor.Xcc.Test/obj/Debug
+/.vs/FirstFloor.Xcc/v14/.suo
+/FirstFloor.Xcc/bin/Release
+/FirstFloor.Xcc/obj/Release
+/FirstFloor.Xcc.Test/bin/Release
+/FirstFloor.Xcc.Test/obj/Release
